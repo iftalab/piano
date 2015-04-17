@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">Easy Piano</string>
+    <string name="settings">Settings</string>
+    <string name="reset">Reset</string>
+    <string name="insert">Create Song</string>
+    <string name="edit">Edit Song</string>
+    <string name="empty"></string>
+    <string name="next">Next</string>
+    <string name="insertSongName">Song Name</string>
+    <string name="insertSongArtist">Song Artist</string>
+    <string name="insertSequence">Sequence</string>
+    <string name="insertWord">Word for this sequence</string>
+     <string name="insertNextSequence">Save and Next</string>
+      <string name="insertExit">Save and Exit</string>
+    <string name="insertNotes">Notes for this sequence</string>
+    <string name="insertRate">Select Octave</string>
+    <string name="octaveHigh">Higher</string>
+    <string name="octaveNormal">Normal</string>
+    <string name="octaveLow">Lower</string>
+    <string name="prev">Previous Sequence</string>
+    <string name="nextSeq">Next Sequence</string>
+    
+    <string name="reset_inserter">Reset</string>
+<string name="view_data">View Song Data and Edit</string>
+<string name="delete_song">Delete This Song</string>
+    <string-array name="carelessNotes">
+        <item>E D B F</item>
+        <item>E D B F</item>
+        <item>C B F D</item>
+        <item>C B F D</item>
+        <item>Bb B F D B</item>
+        <item>A Bb C D E F G A</item>
+    </string-array>
+
+</resources>
